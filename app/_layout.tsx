@@ -7,7 +7,7 @@ import { useColorScheme } from '@/hooks/use-color-scheme';
 import '../styles/web-global.css';
 
 export const unstable_settings = {
-  anchor: 'home',
+  anchor: 'index',
 };
 
 export default function RootLayout() {
